@@ -13,11 +13,12 @@ function Privacy() {
           <p class="paragraph">
             Your privacy is critical to us. This Privacy Policy provides the
             manner your data is collected and used by Nisarga Urja Agro Private
-            Limited. The terms of this Privacy Policy should be read carefully
-            in consonance with the Terms of Use for this application. By
-            accessing and using the application you agree to the collection and
-            use of your data by us in the manner provided in this Privacy
-            Policy.
+            Limited Website and Application - Nisarga Urja - Online Daily
+            Essentials Shopping (org.nisargaurja). The terms of this Privacy
+            Policy should be read carefully in consonance with the Terms of Use
+            for this application. By accessing and using the application you
+            agree to the collection and use of your data by us in the manner
+            provided in this Privacy Policy.
           </p>
           <h3 class="heading-tertiary u-margin-bottom-small">
             Collection of Personal Information:
@@ -25,16 +26,14 @@ function Privacy() {
           <p class="paragraph">
             In order to register yourself on the application, you will be
             required to provide the following personally identifiable
-            information namely: full name, age, email address, mobile phone
-            number, gender, postal address etc. Whether any of such information
-            is optional or mandatory is indicated by us at the appropriate
-            places. You may opt to not give certain information in case it is
-            optional. You may modify or delete your username, password and any
-            other personally identifiable information by editing your account
-            information. Besides personally identifiable information, we also
-            collect information about the pages on the application you
-            visit/access, the links you click on the application, the number of
-            times you access the page and any such browsing information.
+            information namely: full name, email address, mobile phone number,
+            postal address etc. Whether any of such information is optional or
+            mandatory is indicated by us at the appropriate places. You may opt
+            to not give certain information in case it is optional. Besides
+            personally identifiable information, we also collect information
+            about the pages on the application you visit/access, the links you
+            click on the application, the number of times you access the page
+            and any such browsing information.
           </p>
           <h3 class="heading-tertiary u-margin-bottom-small">Cookies:</h3>
           <p class="paragraph">

@@ -14,21 +14,21 @@ function Home() {
           <div className="row">
             <div className="col-1-of-2">
               <h3 className="heading-tertiary u-margin-bottom-small">
-                Your Going to fall in love with nature
+                Your Going to fall in love with natural products
               </h3>
               <p className="paragraph">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Aliquam animi architecto culpa delectus dolorem eaque ex hic,
-                illo inventore iusto optio quam quas qui recusandae suscipit
-                temporibus veritatis voluptatibus? Sit.
+                We aim to serve natural products like fresh fruits, vegetables,
+                exotic vegetables, freshly squeezed juices, organic products,
+                etc. We also have several other categories that include bakery,
+                snacks, etc.
               </p>
 
               <h3 className="heading-tertiary u-margin-bottom-small">
-                Live adventures like you never have before
+                Our Vision
               </h3>
               <p className="paragraph">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Aliquam animi architecto culpa delectus dolorem eaque ex hic.
+                We aim to be the pioneers in supporting each individual's
+                endeavour towards a healthier lifestyle.
               </p>
 
               <a href="/" className="btn-text">
@@ -69,11 +69,11 @@ function Home() {
               <div className="feature-box">
                 <i className="feature-box__icon icon-basic-world"></i>
                 <h3 className="heading-tertiary u-margin-bottom-small">
-                  Explore the world
+                  Fresh
                 </h3>
                 <p className="feature-box__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aliquam animi architecto.
+                  We ensure freshness of all our products before packaging and
+                  delivery of items.
                 </p>
               </div>
             </div>
@@ -82,11 +82,11 @@ function Home() {
               <div className="feature-box">
                 <i className="feature-box__icon icon-basic-compass"></i>
                 <h3 className="heading-tertiary u-margin-bottom-small">
-                  Meet nature
+                  Healthy
                 </h3>
                 <p className="feature-box__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aliquam animi architecto.
+                  We promote a healthy lifestyle by providing organic and fresh
+                  products.
                 </p>
               </div>
             </div>
@@ -95,11 +95,10 @@ function Home() {
               <div className="feature-box">
                 <i className="feature-box__icon icon-basic-map"></i>
                 <h3 className="heading-tertiary u-margin-bottom-small">
-                  Find your way
+                  Quick Delivery
                 </h3>
                 <p className="feature-box__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aliquam animi architecto.
+                  All deliveries are made within the same day or the next day.
                 </p>
               </div>
             </div>
@@ -108,11 +107,11 @@ function Home() {
               <div className="feature-box">
                 <i className="feature-box__icon icon-basic-heart"></i>
                 <h3 className="heading-tertiary u-margin-bottom-small">
-                  Live a healthier life
+                  Hygienic
                 </h3>
                 <p className="feature-box__text">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Aliquam animi architecto.
+                  In purview of the pandemic, we take all necessary precautions
+                  pertaining to sanitisation and hygiene.
                 </p>
               </div>
             </div>
@@ -339,7 +338,7 @@ function Home() {
           </div>
         </section>
 
-        <section className="section-stories">
+        {/* <section className="section-stories">
           <div className="bg-video">
             <video className="bg-video__content" autoPlay muted loop>
               <source src="img/video.mp4" type="video/mp4" />
@@ -410,7 +409,7 @@ function Home() {
               Read more stories &rarr;
             </a>
           </div>
-        </section>
+        </section> */}
 
         <section className="section-book">
           <div className="row">
