@@ -99,6 +99,7 @@ export default function App() {
           <Route path="/" exact>
             <Home />
           </Route>
+          <Route component={Home} />
         </Switch>
         <footer className="footer">
           <div className="footer__logo-box">
